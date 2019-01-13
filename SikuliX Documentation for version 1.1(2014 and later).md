@@ -47,6 +47,37 @@ SikuliX通过**SikuliX IDE**尽可能地支持各种脚本运行（SikuliX IDE�
 
 ### 新特性与主要更新（1.1.4版+）
 
-- 1.1.4更新内容
-  - 图片检索接口修复（find API）
-  - 图片检索接口修复（find API）
+- [1.1.4 新内容](https://sikulix-2014.readthedocs.io/en/latest/news.html)
+  - [图片检索接口修复（find API）](https://sikulix-2014.readthedocs.io/en/latest/news.html#revision-of-the-image-find-api)
+  - [文案检索接口修复（find API）](https://sikulix-2014.readthedocs.io/en/latest/news.html#revision-of-the-text-find-api)
+  - [检索全部(findAll)修复](https://sikulix-2014.readthedocs.io/en/latest/news.html#revision-of-the-findall-feature)
+  - [文本和OCR修复](https://sikulix-2014.readthedocs.io/en/latest/news.html#revision-of-the-text-and-ocr-feature)
+  - [添加了图片透明度支持(图片遮盖)](https://sikulix-2014.readthedocs.io/en/latest/news.html#using-images-with-transparent-parts-masked-images)
+  - [App类修复](https://sikulix-2014.readthedocs.io/en/latest/news.html#app-class-revised)
+  - [全新与修正的IDE功能](https://sikulix-2014.readthedocs.io/en/latest/news.html#new-and-revised-features-in-the-ide)
+
+- [1.1.4 针对Linux用户](https://sikulix-2014.readthedocs.io/en/latest/newslinux.html)
+  - [添加JDK和SikuliX包（IDE/IDE+API）](https://sikulix-2014.readthedocs.io/en/latest/newslinux.html#getting-a-jdk-and-the-sikulix-packages-ide-and-or-api)
+  - [添加OpenCV支持](https://sikulix-2014.readthedocs.io/en/latest/newslinux.html#getting-the-opencv-support-ready)
+  - [添加Tesseract支持（OCR工具）](https://sikulix-2014.readthedocs.io/en/latest/newslinux.html#getting-the-tesseract-support-ready)
+
+- [1.1.4 缺陷、已知问题、需求及可能的工作内容](https://sikulix-2014.readthedocs.io/en/latest/newsbugs.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
