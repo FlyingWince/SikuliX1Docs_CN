@@ -44,3 +44,9 @@ SikuliX通过**SikuliX IDE**尽可能地支持各种脚本运行（SikuliX IDE�
 如果你此前从未接触过Sikuli系列工具，循序渐进的将这份文档读一遍应当是个不错的方法。当然你也可以选择检视[内容表](https://sikulix-2014.readthedocs.io/en/latest/toc.html)，直接跳到你感兴趣的章节。一个折中的办法是按下列顺序阅读那些关键章节：[域Region](https://sikulix-2014.readthedocs.io/en/latest/region.html#Region), [匹配Match](https://sikulix-2014.readthedocs.io/en/latest/match.html#Match)和 [屏幕Screen](https://sikulix-2014.readthedocs.io/en/latest/screen.html#Screen)。
 
 之后，你可以根据按字母排序的[内容表](https://sikulix-2014.readthedocs.io/en/latest/toc.html)或[索引](https://sikulix-2014.readthedocs.io/en/latest/genindex.html)去浏览所有的类、方法及函数。
+
+### 新特性与主要更新（1.1.4版+）
+
+- 1.1.4更新内容
+  - 图片检索接口修复（find API）
+  - 图片检索接口修复（find API）
