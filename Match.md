@@ -1,5 +1,6 @@
 ---
 typora-root-url: ./Images
+typora-copy-images-to: ./assets
 ---
 
 # Match
@@ -22,13 +23,13 @@ typora-root-url: ./Images
 
 ```# 如果发现结果有返回，m是一个Match对象索引```
 
-```m = find(``` ![apple](/../assets/apple.png)```)```
+```m = find(``` ![apple](assets/apple.png)```)```
 
 ```print m #信息域内容：Match[10,0 30x22] score =1.00, target=center```
 
 ```# 如果发现结果有返回，m是一个Match对象索引```
 
-```m = find(Pattern(``` ![apple](/../assets/apple.png)```).similar(0.5).targetOffset(100,0))```
+```m = find(Pattern(``` ![apple](assets/apple.png)```).similar(0.5).targetOffset(100,0))```
 
 ```print m #信息域内容：Match[10, 0 30x22] score=1.00, target=(105,11)```
 
@@ -68,7 +69,7 @@ Region.findAll()发现操作会返回一个用来遍历全部匹配的Match对�
 
 
 
-```findAll(```![star](/../assets/star.png) ```) #find all matches```
+```findAll(```![star](assets/star.png) ```) #find all matches```
 
 ```mm = list(getLastMatches())```
 
@@ -78,7 +79,7 @@ Region.findAll()发现操作会返回一个用来遍历全部匹配的Match对�
 
 
 
-``` findAll(```![star](/../assets/star.png) ```) #find all matches```
+``` findAll(```![star](assets/star.png) ```) #find all matches```
 
 ``` mm=SCREEN.getLastMatches()```
 
@@ -98,7 +99,7 @@ Region.findAll()发现操作会返回一个用来遍历全部匹配的Match对�
 
 
 
-```with findAll(```![star](/../assets/star.png) ```) as mm:```
+```with findAll(```![star](assets/star.png) ```) as mm:```
 
 ``` while mm.hasNext(): # loop as long there is a first and more matches```
 
