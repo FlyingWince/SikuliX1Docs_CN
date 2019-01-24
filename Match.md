@@ -1,8 +1,3 @@
----
-typora-root-url: ./Images
-typora-copy-images-to: ./assets
----
-
 # Match
 
 *class* **Match** 匹配类
